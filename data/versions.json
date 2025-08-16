@@ -2,7 +2,7 @@
 	{
 		"device": "PixelBuddy-8x8v1",
 		"version": 1,
-		"binaryUrl": "https://ota.com/binaries/asduiaurar.bin"
+		"binaryUrl": "https://github.com/anushibin007/pixelbuddy-fota/raw/refs/heads/master/builds/v1/firmware.bin"
 	},
 	{
 		"device": "PixelBuddy-8x8v1",
