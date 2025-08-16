@@ -1,0 +1,12 @@
+[
+	{
+		"device": "PixelBuddy-8x8v1",
+		"version": 1,
+		"binaryUrl": "https://ota.com/binaries/asduiaurar.bin"
+	},
+	{
+		"device": "PixelBuddy-8x8v1",
+		"version": 2,
+		"binaryUrl": "https://ota.com/binaries/iouiui.bin"
+	}
+]
