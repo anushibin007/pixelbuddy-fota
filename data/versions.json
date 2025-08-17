@@ -8,5 +8,10 @@
 		"device": "PixelBuddy-8x8v1",
 		"version": 2,
 		"binaryUrl": "https://raw.githubusercontent.com/anushibin007/pixelbuddy-fota/refs/heads/master/builds/v2/firmware.bin"
+	},
+	{
+		"device": "PixelBuddy-8x8v1",
+		"version": 3,
+		"binaryUrl": "https://raw.githubusercontent.com/anushibin007/pixelbuddy-fota/refs/heads/master/builds/v3/firmware.bin"
 	}
 ]
